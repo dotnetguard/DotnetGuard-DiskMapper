@@ -4,6 +4,10 @@ A disk usage visualizer built with C# / .NET 6 and WPF — see what's eating you
 
 Built by [dotnetguard.blog](https://dotnetguard.blog).
 
+<img width="1028" height="632" alt="image" src="https://github.com/user-attachments/assets/ee145bbe-7775-40cb-b9d5-7f2e42084420" />
+<img width="1029" height="632" alt="image" src="https://github.com/user-attachments/assets/a4396340-453b-4c29-9ccb-58c784e244bd" />
+
+
 ## Features
 
 - Squarified treemap layout, written from scratch (no charting library)
