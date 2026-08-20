@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DotnetGuard.DiskMap.App/DotnetGuard.DiskMap.App.csproj" />
+  <Project Path="DotnetGuard.DiskMap.Core/DotnetGuard.DiskMap.Core.csproj" />
+  <Project Path="DotnetGuard.DiskMap.Data/DotnetGuard.DiskMap.Data.csproj" />
+</Solution>
